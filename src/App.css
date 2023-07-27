@@ -1,22 +1,17 @@
-body{
-  background-color: brown;
+
+div{
+    margin: 20px;
+    
 }
-.App {
-  text-align: center;
+
+
+li{
+    display: block;
 }
-.Header {
-  background-color: rgb(231, 149, 36);
-  padding: 10px;
-  color: bisque;
+.studentattend{
+    color: green;
+
 }
-.pic1 {
-  width: 25%;
-}
-.Child {
-  background-color: rgb(222, 239, 246);
-  padding: 10px;
-  color: rgb(170, 85, 20);
-}
-.pic2 {
-  width: 25%;
+.studentattend2{
+    color: red;
 }
