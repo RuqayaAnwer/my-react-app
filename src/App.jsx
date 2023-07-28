@@ -1,10 +1,11 @@
 
 import './App.css';
-import Attendance from './componants/atended';
+import Studentnam from './components/Studentnam'
 function App() {
   return (
-    <Attendance />
-  )
+    <div>
+      <Studentnam />
+    </div>
+  );
 }
-
-  export default App;
+export default App;
